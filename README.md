@@ -40,7 +40,7 @@ This thesis combines improves how large language models interact with large code
 
 ## 📫 Contact
 - Email: farida.elgharabawy@yahoo.com
-- LinkedIn: [[your-linkedin](https://www.linkedin.com/in/faridasaidelgharabawy/)]
+- LinkedIn: [faridasaidelgharabawy](https://www.linkedin.com/in/faridasaidelgharabawy/)
 
 ---
 
